@@ -1,0 +1,14 @@
+body {
+  color: antiquewhite;
+}
+
+h1 {
+  color: blueviolet;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
