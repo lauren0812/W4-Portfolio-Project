@@ -62,8 +62,8 @@ p {
 }
 
 .content h1 {
-  font-size: 15px;
-  line-height: 60px;
+  font-size: 64px;
+  line-height: 80px;
 }
 
 .content h2 {
@@ -79,7 +79,7 @@ p {
 }
 
 .content p {
-  font-size: 14px;
+  font-size: 30px;
 }
 
 .content {
