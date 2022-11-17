@@ -19,7 +19,7 @@ font-weight: bold;
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 80px;
   line-height: 1.5;
   color: var(--branding-color);
 }
@@ -112,7 +112,7 @@ p {
 }
 
 nav {
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 nav ul {
