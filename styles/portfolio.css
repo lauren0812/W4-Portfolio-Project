@@ -137,18 +137,34 @@ nav a {
 }
 
 nav a:hover,
-nav li.active a {
+nav li.active a,
+a:hover,
+.contact {
   color: var(--branding-color);
 }
 
 a {
   text-decoration: none;
-  color: var(--branding-color);
+  color: black;
   transition: all 100ms ease-in-out;
   font-size: 25px;
 }
 
-a:hover {
+footer {
+  margin: 60px 0;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: var(--branding-color);
+  background: var(--secondary-color);
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 25px;
+  transition: all 100ms ease-in-out;
+}
+
+.social-links a:hover {
   color: black;
 }
 
